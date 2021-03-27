@@ -1,7 +1,0 @@
-
-
-function [triangularFilter] = generate_triangular_filter(cutoffFrequency) 
-
-    
-    
-end
